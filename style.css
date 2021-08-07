@@ -1,0 +1,45 @@
+.heading{
+    width:100%;
+    margin:0px;
+    font-size: 18px;
+}
+
+.note{
+    font-size: 16px;
+    color: black;
+}
+
+body{
+    background-size:cover;
+    overflow:hidden;
+}
+
+.div_speed{
+    float:left;
+}
+
+.div_speed_img , .div_volume_img {
+    width:200px;
+    border-radius:100px ;
+}
+
+.div_volume{
+    float:right;
+}
+
+.volume , .speed  {
+    font-size: 20px;
+}
+
+canvas{
+    border-radius: 30px;
+    border:5px solid purple;
+    margin-top:80px;
+    box-shadow:8px 8px 8px red;
+}
+
+.play{
+    width: 130px;
+   font-size: 16px;
+   top:22px;
+}
